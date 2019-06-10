@@ -2,7 +2,7 @@
 
 ### Overview
 
-This app is a memory game with React. This project required me to break up my application's UI into components, manage component state, and respond to user events. It's made by following up the instruction below: 
+This ia a React app memory game. This project required me to break up my application's UI into components, manage component state, and respond to user events. It's made by following up the instruction below: 
 
 1. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -13,6 +13,4 @@ This app is a memory game with React. This project required me to break up my ap
 4. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
-
-![Image](public/img/dog-clicky-game.png)
 
